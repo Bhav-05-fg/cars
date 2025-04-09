@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "brand": "Hyundai",
+    "model": "Verna",
+    "fuel_type": "Electric",
+    "price": 670398,
+    "seating_capacity": 6,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 2,
+    "brand": "Tata",
+    "model": "Nexon",
+    "fuel_type": "Petrol",
+    "price": 2201009,
+    "seating_capacity": 5,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 3,
+    "brand": "Tata",
+    "model": "Safari",
+    "fuel_type": "Hybrid",
+    "price": 1128729,
+    "seating_capacity": 4,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 4,
+    "brand": "Hyundai",
+    "model": "i20",
+    "fuel_type": "Diesel",
+    "price": 1829829,
+    "seating_capacity": 5,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 5,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "fuel_type": "Petrol",
+    "price": 670636,
+    "seating_capacity": 4,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 6,
+    "brand": "Kia",
+    "model": "Sonet",
+    "fuel_type": "Electric",
+    "price": 552503,
+    "seating_capacity": 5,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 7,
+    "brand": "Maruti",
+    "model": "Brezza",
+    "fuel_type": "Diesel",
+    "price": 1345244,
+    "seating_capacity": 6,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 8,
+    "brand": "Maruti",
+    "model": "Brezza",
+    "fuel_type": "Petrol",
+    "price": 973468,
+    "seating_capacity": 6,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 9,
+    "brand": "Kia",
+    "model": "Carnival",
+    "fuel_type": "Diesel",
+    "price": 2241608,
+    "seating_capacity": 7,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 10,
+    "brand": "Honda",
+    "model": "Amaze",
+    "fuel_type": "Diesel",
+    "price": 2193924,
+    "seating_capacity": 6,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 11,
+    "brand": "Tata",
+    "model": "Safari",
+    "fuel_type": "Petrol",
+    "price": 2661092,
+    "seating_capacity": 4,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 12,
+    "brand": "Honda",
+    "model": "Civic",
+    "fuel_type": "Petrol",
+    "price": 1992790,
+    "seating_capacity": 7,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 13,
+    "brand": "Maruti",
+    "model": "Ertiga",
+    "fuel_type": "Diesel",
+    "price": 2006390,
+    "seating_capacity": 6,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 14,
+    "brand": "Maruti",
+    "model": "Ertiga",
+    "fuel_type": "Hybrid",
+    "price": 615192,
+    "seating_capacity": 6,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 15,
+    "brand": "Honda",
+    "model": "City",
+    "fuel_type": "Diesel",
+    "price": 686067,
+    "seating_capacity": 7,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 16,
+    "brand": "Kia",
+    "model": "Carens",
+    "fuel_type": "Petrol",
+    "price": 1667093,
+    "seating_capacity": 4,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 17,
+    "brand": "Hyundai",
+    "model": "i20",
+    "fuel_type": "Hybrid",
+    "price": 2231987,
+    "seating_capacity": 4,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 18,
+    "brand": "Maruti",
+    "model": "Brezza",
+    "fuel_type": "Diesel",
+    "price": 706191,
+    "seating_capacity": 7,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 19,
+    "brand": "Tata",
+    "model": "Harrier",
+    "fuel_type": "Petrol",
+    "price": 2814406,
+    "seating_capacity": 6,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 20,
+    "brand": "Tata",
+    "model": "Safari",
+    "fuel_type": "Diesel",
+    "price": 1243609,
+    "seating_capacity": 5,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 21,
+    "brand": "Maruti",
+    "model": "Ertiga",
+    "fuel_type": "Petrol",
+    "price": 1098845,
+    "seating_capacity": 6,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 22,
+    "brand": "Maruti",
+    "model": "Brezza",
+    "fuel_type": "Electric",
+    "price": 2601697,
+    "seating_capacity": 5,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 23,
+    "brand": "Maruti",
+    "model": "Ertiga",
+    "fuel_type": "Diesel",
+    "price": 2954816,
+    "seating_capacity": 5,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 24,
+    "brand": "Hyundai",
+    "model": "Venue",
+    "fuel_type": "Petrol",
+    "price": 2122401,
+    "seating_capacity": 5,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 25,
+    "brand": "Kia",
+    "model": "Seltos",
+    "fuel_type": "Petrol",
+    "price": 1068000,
+    "seating_capacity": 7,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 26,
+    "brand": "Maruti",
+    "model": "Baleno",
+    "fuel_type": "Electric",
+    "price": 1412484,
+    "seating_capacity": 6,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 27,
+    "brand": "Kia",
+    "model": "Carens",
+    "fuel_type": "Electric",
+    "price": 2599153,
+    "seating_capacity": 7,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 28,
+    "brand": "Toyota",
+    "model": "Camry",
+    "fuel_type": "Hybrid",
+    "price": 2837920,
+    "seating_capacity": 5,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 29,
+    "brand": "Hyundai",
+    "model": "i20",
+    "fuel_type": "Hybrid",
+    "price": 955200,
+    "seating_capacity": 6,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 30,
+    "brand": "Maruti",
+    "model": "Baleno",
+    "fuel_type": "Hybrid",
+    "price": 2564713,
+    "seating_capacity": 7,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 31,
+    "brand": "Toyota",
+    "model": "Innova",
+    "fuel_type": "Electric",
+    "price": 2049854,
+    "seating_capacity": 5,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 32,
+    "brand": "Kia",
+    "model": "Seltos",
+    "fuel_type": "Petrol",
+    "price": 571693,
+    "seating_capacity": 7,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 33,
+    "brand": "Tata",
+    "model": "Harrier",
+    "fuel_type": "Electric",
+    "price": 1984139,
+    "seating_capacity": 4,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 34,
+    "brand": "Honda",
+    "model": "City",
+    "fuel_type": "Diesel",
+    "price": 1982400,
+    "seating_capacity": 6,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 35,
+    "brand": "Hyundai",
+    "model": "Creta",
+    "fuel_type": "Hybrid",
+    "price": 2933931,
+    "seating_capacity": 4,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 36,
+    "brand": "Honda",
+    "model": "WR-V",
+    "fuel_type": "Petrol",
+    "price": 2384468,
+    "seating_capacity": 7,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 37,
+    "brand": "Maruti",
+    "model": "Swift",
+    "fuel_type": "Petrol",
+    "price": 1646016,
+    "seating_capacity": 7,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 38,
+    "brand": "Maruti",
+    "model": "Swift",
+    "fuel_type": "Hybrid",
+    "price": 1926809,
+    "seating_capacity": 5,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 39,
+    "brand": "Tata",
+    "model": "Nexon",
+    "fuel_type": "Petrol",
+    "price": 1453708,
+    "seating_capacity": 4,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 40,
+    "brand": "Toyota",
+    "model": "Camry",
+    "fuel_type": "Diesel",
+    "price": 1387888,
+    "seating_capacity": 6,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 41,
+    "brand": "Tata",
+    "model": "Nexon",
+    "fuel_type": "Petrol",
+    "price": 1882712,
+    "seating_capacity": 7,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 42,
+    "brand": "Maruti",
+    "model": "Baleno",
+    "fuel_type": "Hybrid",
+    "price": 2130433,
+    "seating_capacity": 7,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 43,
+    "brand": "Kia",
+    "model": "Seltos",
+    "fuel_type": "Hybrid",
+    "price": 863592,
+    "seating_capacity": 4,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 44,
+    "brand": "Maruti",
+    "model": "Swift",
+    "fuel_type": "Petrol",
+    "price": 2507085,
+    "seating_capacity": 6,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 45,
+    "brand": "Toyota",
+    "model": "Fortuner",
+    "fuel_type": "Electric",
+    "price": 1844261,
+    "seating_capacity": 6,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 46,
+    "brand": "Tata",
+    "model": "Harrier",
+    "fuel_type": "Electric",
+    "price": 995415,
+    "seating_capacity": 5,
+    "type": "SUV",
+    "image_url": "suv"
+  },
+  {
+    "id": 47,
+    "brand": "Maruti",
+    "model": "Baleno",
+    "fuel_type": "Diesel",
+    "price": 1226270,
+    "seating_capacity": 6,
+    "type": "Hatchback",
+    "image_url": "hatchback"
+  },
+  {
+    "id": 48,
+    "brand": "Hyundai",
+    "model": "Verna",
+    "fuel_type": "Diesel",
+    "price": 2839476,
+    "seating_capacity": 5,
+    "type": "Sedan",
+    "image_url": "sedan"
+  },
+  {
+    "id": 49,
+    "brand": "Kia",
+    "model": "Carens",
+    "fuel_type": "Petrol",
+    "price": 547008,
+    "seating_capacity": 5,
+    "type": "MPV",
+    "image_url": "mpv"
+  },
+  {
+    "id": 50,
+    "brand": "Hyundai",
+    "model": "Venue",
+    "fuel_type": "Petrol",
+    "price": 2988950,
+    "seating_capacity": 6,
+    "type": "SUV",
+    "image_url": "suv"
+  }
+]
