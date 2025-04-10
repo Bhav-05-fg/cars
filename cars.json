@@ -498,5 +498,145 @@
     "seating_capacity": 6,
     "type": "SUV",
     "image_url": "suv"
+  },
+  {
+    "id": 51,
+    "brand": "BMW",
+    "model": "M4 Coupe",
+    "fuel_type": "Petrol",
+    "price": 13200000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 52,
+    "brand": "Audi",
+    "model": "A5 Coupe",
+    "fuel_type": "Petrol",
+    "price": 6200000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 53,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class Coupe",
+    "fuel_type": "Petrol",
+    "price": 7200000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 54,
+    "brand": "Ford",
+    "model": "Mustang",
+    "fuel_type": "Petrol",
+    "price": 7400000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 55,
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "fuel_type": "Petrol",
+    "price": 5000000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 56,
+    "brand": "Porsche",
+    "model": "911 Carrera",
+    "fuel_type": "Petrol",
+    "price": 16000000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 57,
+    "brand": "Jaguar",
+    "model": "F-Type Coupe",
+    "fuel_type": "Petrol",
+    "price": 10000000,
+    "seating_capacity": 2,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 58,
+    "brand": "Lexus",
+    "model": "RC",
+    "fuel_type": "Petrol",
+    "price": 6800000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 59,
+    "brand": "Toyota",
+    "model": "GR Supra",
+    "fuel_type": "Petrol",
+    "price": 8500000,
+    "seating_capacity": 2,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 60,
+    "brand": "Nissan",
+    "model": "370Z",
+    "fuel_type": "Petrol",
+    "price": 4700000,
+    "seating_capacity": 2,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 61,
+    "brand": "Hyundai",
+    "model": "Genesis Coupe",
+    "fuel_type": "Petrol",
+    "price": 3100000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 62,
+    "brand": "Subaru",
+    "model": "BRZ",
+    "fuel_type": "Petrol",
+    "price": 3500000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 63,
+    "brand": "Mazda",
+    "model": "RX-8",
+    "fuel_type": "Petrol",
+    "price": 2800000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
+  },
+  {
+    "id": 64,
+    "brand": "Infiniti",
+    "model": "Q60",
+    "fuel_type": "Petrol",
+    "price": 6200000,
+    "seating_capacity": 4,
+    "type": "Coupe",
+    "image_url": "coupe"
   }
 ]
